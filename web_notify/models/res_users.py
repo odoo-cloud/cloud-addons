@@ -25,6 +25,7 @@ class ResUsers(models.Model):
             record.notify_warning_channel_name = "notify_warning_%s" % res_id
             record.notify_info_channel_name = "notify_info_%s" % res_id
             record.notify_default_channel_name = "notify_default_%s" % res_id
+            record.notify_error_channel_name = "notify_error_%s" % res_id
 
     notify_success_channel_name = fields.Char(compute="_compute_channel_names")
     notify_danger_channel_name = fields.Char(compute="_compute_channel_names")
