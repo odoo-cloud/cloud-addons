@@ -8,7 +8,7 @@
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Server UX",
-    "website": "https://github.com/OCA/server-ux",
+    "website": "https://github.com/OCA/event",
     "depends": ["mail"],
     "data": [
         "security/announcement_security.xml",

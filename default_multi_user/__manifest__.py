@@ -7,7 +7,7 @@
     "development_status": "Beta",
     "maintainers": ["LoisRForgeFlow"],
     "category": "Tools",
-    "website": "https://github.com/OCA/server-ux",
+    "website": "https://github.com/OCA/event",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "installable": True,
